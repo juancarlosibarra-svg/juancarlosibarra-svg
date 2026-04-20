@@ -1,4 +1,4 @@
-# ¡Hola! Soy Juan Carlos Ibarra Velásquez 👋
+# ¡Hola! Soy Juan Carlos Ibarra Velásquez 😎
 
 ## 🚀 Sobre mí
 Soy Docente del Instituto Nacional Del Puerto De La Libertad, en el Bachillerato  Técnico Vocacional, Opción "Desarrollo De Software"
