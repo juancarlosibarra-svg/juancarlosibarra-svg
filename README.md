@@ -14,17 +14,11 @@ Para mis proyectos y aprendizaje constante, utilizo el siguiente stack:
 
 ## 📁 Proyectos Destacados
 
-### 📂 [Nombre de tu Proyecto Principal]
-* **Descripción:** Una breve explicación de qué hace tu proyecto (ej: "Plataforma de gestión escolar" o "E-commerce con carrito de compras").
+### 📂 Sistema de Asignación de Deméritos y control disciplinario
+* **Descripción:** Es una plataforma de gestión escolar, enfocada en el cumplimiento del normativo o Ley de asignación de méritos escolares.
 * **Tecnologías:** PHP, Laravel y MySQL.
-* **Enlace:** [Ver repositorio aquí](https://github.com/TU_USUARIO/NOMBRE_REPOSITORIO)
+* **Enlace:**🐙 https://ds26.infinityfreeapp.com/a20sis/login.php?i=1
 
-*(Puedes duplicar esta sección para añadir más proyectos)*
-
-## 📈 Estadísticas de GitHub
-![Estadísticas de Juan Carlos](https://github-readme-stats.vercel.app/api?username=TU_USUARIO_AQUÍ&show_icons=true&theme=tokyonight)
-
----
 
 ## 📬 Contacto
 ¡Me encantaría conectar contigo! Puedes encontrarme en:
