@@ -23,5 +23,4 @@ Para mis proyectos y aprendizaje constante, utilizo el siguiente stack:
 ## 📬 Contacto
 ¡Me encantaría conectar contigo! Puedes encontrarme en:
 
-* **LinkedIn:** [linkedin.com/in/tu-perfil](https://www.linkedin.com/in/tu-perfil)
-* **Correo Electrónico:** [19881712@clases.edu.sv](mailto:19881712@clases.edu.sv)
+* **Correo Electrónico:** [juan.carlos.ibarra@clases.edu.sv](mailto:juan.carlos.ibarra@clases.edu.sv)
